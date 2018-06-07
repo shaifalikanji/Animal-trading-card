@@ -1,0 +1,61 @@
+
+.full-border{
+    width:303px;		
+ 
+}
+
+h3{
+	
+	text-indent:100px;
+  box-shadow:25px 10px 30px #ff9900;
+ 
+}
+
+#sloth-image{
+	width:300px;
+	padding-bottom:10px 25px 30px;
+	border:groove; 
+  box-shadow:25px 10px 30px #ffb366;
+  border-color:orange;
+}
+
+.space-padding{
+  padding:20px;
+	
+}
+ 
+.borders {
+	border:groove;
+	border-color:orange;
+	box-shadow:25px 10px 30px #ffb366;
+	box-shadow:#ff9900;
+	padding:2px 5px 15px;
+	width:290px
+		
+}	
+
+
+ul{
+	list-style-type: none;
+	
+}
+
+
+#interesting-fact {
+ 	font-style:italic;
+	color:green;
+	
+}
+
+
+.labels {
+	font-weight:bold;
+	color:green;
+
+}
+
+.animal-description {
+	color:green;
+  font-style:italic
+	
+}
